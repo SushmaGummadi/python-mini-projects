@@ -3,6 +3,7 @@ Python Projects Collection
 This repository contains multiple beginner-to-intermediate level Python projects developed to strengthen programming, problem-solving, and software development skills.
 
 Projects Included
+
 1. Game Development Projects
 Snake Game
 Tic Tac Toe
@@ -15,6 +16,7 @@ Logic building
 Algorithm design (backtracking in maze solver)
 Game state management
 User interaction using Python
+
 2. Face Detection System
 
 A computer vision-based application that detects human faces using:
