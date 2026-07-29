@@ -1,52 +1,55 @@
-Python Projects Collection
+# Python Mini Projects
 
-This repository contains multiple beginner-to-intermediate level Python projects developed to strengthen programming, problem-solving, and software development skills.
+A collection of beginner Python projects created while learning programming fundamentals, algorithms, graphical interfaces, and introductory computer vision.
 
-Projects Included
+## Projects
 
-1. Game Development Projects
-Snake Game
-Tic Tac Toe
-Hangman
-Rat in a Maze Solver
+### Games and Algorithms
 
-These projects focus on:
+- Snake Game
+- Tic-Tac-Toe
+- Hangman
+- Rat in a Maze Solver
 
-Logic building
-Algorithm design (backtracking in maze solver)
-Game state management
-User interaction using Python
+These projects demonstrate:
 
-2. Face Detection System
+- control flow
+- game-state management
+- user input handling
+- algorithmic problem-solving
+- backtracking
 
-A computer vision-based application that detects human faces using:
+### Computer Vision
 
-Webcam input
-IP camera / mobile camera support
+- Face Detection
+- IP Camera Stream
 
-Technologies used:
+These projects explore:
 
-OpenCV
-Python image processing libraries
+- OpenCV
+- webcam and camera-stream input
+- real-time image processing
+- basic face detection
 
-This project demonstrates:
+### Utility Applications
 
-Real-time image processing
-Object detection concepts
-Camera stream handling
-3. Utility Applications
-Calculator application
-Notepad (text editor)
+- Calculator
+- Notepad
 
-These projects focus on:
+These projects demonstrate:
 
-GUI development basics
-Event handling
-File handling in Python
-User interface logic
-Technologies Used
-Python
-OpenCV
-Basic GUI libraries (Tkinter or similar)
-File handling modules
-Algorithmic problem solving
+- basic graphical interface development
+- event handling
+- file handling
+- application logic
+
+## Technologies
+
+- Python
+- OpenCV
+- Tkinter
+- Algorithmic problem-solving
+
+## Project Status
+
+These projects were created during my early Python learning journey and are retained to demonstrate my programming progression.
